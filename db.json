@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "id-2",
+      "name": "Hermione Kline",
+      "number": "443-89-12"
+    },
+    {
+      "id": "id-3",
+      "name": "Eden Clements",
+      "number": "645-17-79"
+    },
+    {
+      "name": "Максим Закалюжный",
+      "number": "00000000000",
+      "id": "YyoJpNc"
+    },
+    {
+      "name": "Максим Закалюжныйdawd",
+      "number": "00000000000",
+      "id": "5Dtr5Yy"
+    },
+    {
+      "name": "Максим Закалюжныйawd",
+      "number": "00000000000",
+      "id": "Cr6Egr9"
+    },
+    {
+      "name": "awawdawdawdwadawdwa",
+      "number": "00000000000",
+      "id": "CdPfMuX"
+    },
+    {
+      "name": "Максим Закалюжныйdawdawd",
+      "number": "00000000000",
+      "id": "hQcPHrg"
+    }
+  ]
+}
